@@ -105,7 +105,7 @@ main() {
 
   unzip_file "$output_file" "roblox_unzip" "Unzipping Roblox..." "Unzipped Roblox!" "Failed to unzip Roblox."
 
-  local current_hydrogen_exec="https://cdn.discordapp.com/attachments/1043972790266626179/1129558271674560532/Hydrogen_MacOS.app.zip"
+  local current_hydrogen_exec="https://cdn.discordapp.com/attachments/1043972790266626179/1130660931777613854/Hydrogen_MacOS.app.zip"
   #current_hydrogen_exec=$(fetch_url "https://raw.githubusercontent.com/VersatileTeam/hm-ver/main/durl.txt?token=$RANDOM")
 
   download_file "$current_hydrogen_exec" "hydrogen.zip" "Downloading Hydrogen..." "Hydrogen has been downloaded!" "Failed to download the latest Hydrogen version. Please check your internet connection and try again."
