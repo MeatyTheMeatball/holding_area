@@ -19,7 +19,7 @@
                                 <key>needs-shine</key>
                                 <true/>
                                 <key>url</key>
-                                <string></string>
+                                <string>https://raw.githubusercontent.com/MeatyTheMeatball/stare-at-a-ball-bouncing/main/ball.png</string>
                             </dict>
                         </array>
                         <key>metadata</key>
